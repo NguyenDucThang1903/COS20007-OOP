@@ -1,0 +1,14 @@
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\SplashKitTest.AssemblyInfoInputs.cache
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\SplashKitTest.AssemblyInfo.cs
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\SplashKitTest.csproj.CoreCompileInputs.cache
+E:\COS20007\SplashKitTest\bin\Debug\net8.0\SplashKitTest.exe
+E:\COS20007\SplashKitTest\bin\Debug\net8.0\SplashKitTest.deps.json
+E:\COS20007\SplashKitTest\bin\Debug\net8.0\SplashKitTest.runtimeconfig.json
+E:\COS20007\SplashKitTest\bin\Debug\net8.0\SplashKitTest.dll
+E:\COS20007\SplashKitTest\bin\Debug\net8.0\SplashKitTest.pdb
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\SplashKitTest.dll
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\refint\SplashKitTest.dll
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\SplashKitTest.pdb
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\SplashKitTest.genruntimeconfig.cache
+E:\COS20007\SplashKitTest\obj\Debug\net8.0\ref\SplashKitTest.dll

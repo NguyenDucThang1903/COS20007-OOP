@@ -1,0 +1,14 @@
+E:\COS20007\week2\Task2_1\SplashKit_example\bin\Debug\net8.0\SplashKit_example.exe
+E:\COS20007\week2\Task2_1\SplashKit_example\bin\Debug\net8.0\SplashKit_example.deps.json
+E:\COS20007\week2\Task2_1\SplashKit_example\bin\Debug\net8.0\SplashKit_example.runtimeconfig.json
+E:\COS20007\week2\Task2_1\SplashKit_example\bin\Debug\net8.0\SplashKit_example.dll
+E:\COS20007\week2\Task2_1\SplashKit_example\bin\Debug\net8.0\SplashKit_example.pdb
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\SplashKit_example.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\SplashKit_example.AssemblyInfoInputs.cache
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\SplashKit_example.AssemblyInfo.cs
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\SplashKit_example.csproj.CoreCompileInputs.cache
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\SplashKit_example.dll
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\refint\SplashKit_example.dll
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\SplashKit_example.pdb
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\SplashKit_example.genruntimeconfig.cache
+E:\COS20007\week2\Task2_1\SplashKit_example\obj\Debug\net8.0\ref\SplashKit_example.dll

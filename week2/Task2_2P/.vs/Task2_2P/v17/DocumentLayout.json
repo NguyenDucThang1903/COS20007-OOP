@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COS20007\\week2\\Task2_2P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B35A2F0E-2CC5-434C-B1C2-DDB00D278D79}|CounterTask\\CounterTask.csproj|e:\\cos20007\\week2\\task2_2p\\countertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35A2F0E-2CC5-434C-B1C2-DDB00D278D79}|CounterTask\\CounterTask.csproj|solutionrelative:countertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35A2F0E-2CC5-434C-B1C2-DDB00D278D79}|CounterTask\\CounterTask.csproj|e:\\cos20007\\week2\\task2_2p\\countertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35A2F0E-2CC5-434C-B1C2-DDB00D278D79}|CounterTask\\CounterTask.csproj|solutionrelative:countertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "E:\\COS20007\\week2\\Task2_2P\\CounterTask\\Counter.cs",
+              "RelativeDocumentMoniker": "CounterTask\\Counter.cs",
+              "ToolTip": "E:\\COS20007\\week2\\Task2_2P\\CounterTask\\Counter.cs",
+              "RelativeToolTip": "CounterTask\\Counter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwDAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:48:48.718Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COS20007\\week2\\Task2_2P\\CounterTask\\Program.cs",
+              "RelativeDocumentMoniker": "CounterTask\\Program.cs",
+              "ToolTip": "E:\\COS20007\\week2\\Task2_2P\\CounterTask\\Program.cs",
+              "RelativeToolTip": "CounterTask\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:46:33.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

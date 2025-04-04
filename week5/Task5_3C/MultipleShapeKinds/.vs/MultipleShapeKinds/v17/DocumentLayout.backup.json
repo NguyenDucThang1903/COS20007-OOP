@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|e:\\cos20007\\week5\\task5_3c\\multipleshapekinds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|e:\\cos20007\\week5\\task5_3c\\multipleshapekinds\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|solutionrelative:extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|e:\\cos20007\\week5\\task5_3c\\multipleshapekinds\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|e:\\cos20007\\week5\\task5_3c\\multipleshapekinds\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|e:\\cos20007\\week5\\task5_3c\\multipleshapekinds\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|e:\\cos20007\\week5\\task5_3c\\multipleshapekinds\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|e:\\cos20007\\week5\\task5_3c\\multipleshapekinds\\testdrawing.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|solutionrelative:testdrawing.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|e:\\cos20007\\week5\\task5_3c\\multipleshapekinds\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B637D81C-EF91-4E29-BEF8-0E515017EB65}|MultipleShapeKinds.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestDrawing.txt",
+              "DocumentMoniker": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\TestDrawing.txt",
+              "RelativeDocumentMoniker": "TestDrawing.txt",
+              "ToolTip": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\TestDrawing.txt",
+              "RelativeToolTip": "TestDrawing.txt",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-03T21:50:03.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwFcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:31:04.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "MyRectangle.cs",
+              "ToolTip": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\MyRectangle.cs",
+              "RelativeToolTip": "MyRectangle.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:39:13.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T01:13:42.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\MyCircle.cs",
+              "RelativeDocumentMoniker": "MyCircle.cs",
+              "ToolTip": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\MyCircle.cs",
+              "RelativeToolTip": "MyCircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:51:33.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:38:11.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA5wFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T03:07:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "ExtensionMethod.cs",
+              "ToolTip": "E:\\COS20007\\week5\\Task5_3C\\MultipleShapeKinds\\ExtensionMethod.cs",
+              "RelativeToolTip": "ExtensionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:45:10.229Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\COS20007\week2\Task2_1\Task2_1\bin\Debug\net8.0\Task2_1.exe
+E:\COS20007\week2\Task2_1\Task2_1\bin\Debug\net8.0\Task2_1.deps.json
+E:\COS20007\week2\Task2_1\Task2_1\bin\Debug\net8.0\Task2_1.runtimeconfig.json
+E:\COS20007\week2\Task2_1\Task2_1\bin\Debug\net8.0\Task2_1.dll
+E:\COS20007\week2\Task2_1\Task2_1\bin\Debug\net8.0\Task2_1.pdb
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\Task2_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\Task2_1.AssemblyInfoInputs.cache
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\Task2_1.AssemblyInfo.cs
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\Task2_1.csproj.CoreCompileInputs.cache
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\Task2_1.dll
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\refint\Task2_1.dll
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\Task2_1.pdb
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\Task2_1.genruntimeconfig.cache
+E:\COS20007\week2\Task2_1\Task2_1\obj\Debug\net8.0\ref\Task2_1.dll

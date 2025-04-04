@@ -1,0 +1,14 @@
+E:\COS20007\week3\Task3_3P\DrawingClass\bin\Debug\net8.0\DrawingClass.exe
+E:\COS20007\week3\Task3_3P\DrawingClass\bin\Debug\net8.0\DrawingClass.deps.json
+E:\COS20007\week3\Task3_3P\DrawingClass\bin\Debug\net8.0\DrawingClass.runtimeconfig.json
+E:\COS20007\week3\Task3_3P\DrawingClass\bin\Debug\net8.0\DrawingClass.dll
+E:\COS20007\week3\Task3_3P\DrawingClass\bin\Debug\net8.0\DrawingClass.pdb
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\DrawingClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\DrawingClass.AssemblyInfoInputs.cache
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\DrawingClass.AssemblyInfo.cs
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\DrawingClass.csproj.CoreCompileInputs.cache
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\DrawingClass.dll
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\refint\DrawingClass.dll
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\DrawingClass.pdb
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\DrawingClass.genruntimeconfig.cache
+E:\COS20007\week3\Task3_3P\DrawingClass\obj\Debug\net8.0\ref\DrawingClass.dll

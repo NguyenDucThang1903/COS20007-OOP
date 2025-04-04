@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COS20007\\week2\\Task2_1\\NUnitTest\\QueueApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4036E812-A995-44DE-B1E2-1408C3B11011}|TestQueue\\TestQueue.csproj|e:\\cos20007\\week2\\task2_1\\nunittest\\queueapplication\\testqueue\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4036E812-A995-44DE-B1E2-1408C3B11011}|TestQueue\\TestQueue.csproj|solutionrelative:testqueue\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D8CCA-D5CB-4B11-B110-7224F137CE72}|QueueApplication\\QueueApplication.csproj|e:\\cos20007\\week2\\task2_1\\nunittest\\queueapplication\\queueapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6D8CCA-D5CB-4B11-B110-7224F137CE72}|QueueApplication\\QueueApplication.csproj|solutionrelative:queueapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D8CCA-D5CB-4B11-B110-7224F137CE72}|QueueApplication\\QueueApplication.csproj|e:\\cos20007\\week2\\task2_1\\nunittest\\queueapplication\\queueapplication\\integerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6D8CCA-D5CB-4B11-B110-7224F137CE72}|QueueApplication\\QueueApplication.csproj|solutionrelative:queueapplication\\integerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\COS20007\\week2\\Task2_1\\NUnitTest\\QueueApplication\\TestQueue\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestQueue\\UnitTest1.cs",
+              "ToolTip": "E:\\COS20007\\week2\\Task2_1\\NUnitTest\\QueueApplication\\TestQueue\\UnitTest1.cs",
+              "RelativeToolTip": "TestQueue\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:54:39.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegerQueue.cs",
+              "DocumentMoniker": "E:\\COS20007\\week2\\Task2_1\\NUnitTest\\QueueApplication\\QueueApplication\\IntegerQueue.cs",
+              "RelativeDocumentMoniker": "QueueApplication\\IntegerQueue.cs",
+              "ToolTip": "E:\\COS20007\\week2\\Task2_1\\NUnitTest\\QueueApplication\\QueueApplication\\IntegerQueue.cs",
+              "RelativeToolTip": "QueueApplication\\IntegerQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:45:19.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COS20007\\week2\\Task2_1\\NUnitTest\\QueueApplication\\QueueApplication\\Program.cs",
+              "RelativeDocumentMoniker": "QueueApplication\\Program.cs",
+              "ToolTip": "E:\\COS20007\\week2\\Task2_1\\NUnitTest\\QueueApplication\\QueueApplication\\Program.cs",
+              "RelativeToolTip": "QueueApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T22:41:51.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

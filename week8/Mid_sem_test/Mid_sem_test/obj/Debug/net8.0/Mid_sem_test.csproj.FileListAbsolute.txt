@@ -1,0 +1,14 @@
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\Mid_sem_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\Mid_sem_test.AssemblyInfoInputs.cache
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\Mid_sem_test.AssemblyInfo.cs
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\Mid_sem_test.csproj.CoreCompileInputs.cache
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\bin\Debug\net8.0\Mid_sem_test.exe
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\bin\Debug\net8.0\Mid_sem_test.deps.json
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\bin\Debug\net8.0\Mid_sem_test.runtimeconfig.json
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\bin\Debug\net8.0\Mid_sem_test.dll
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\bin\Debug\net8.0\Mid_sem_test.pdb
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\Mid_sem_test.dll
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\refint\Mid_sem_test.dll
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\Mid_sem_test.pdb
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\Mid_sem_test.genruntimeconfig.cache
+E:\COS20007\week8\Mid_sem_test\Mid_sem_test\obj\Debug\net8.0\ref\Mid_sem_test.dll

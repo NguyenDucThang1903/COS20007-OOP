@@ -1,0 +1,14 @@
+E:\COS20007\week2\Task2_3P\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+E:\COS20007\week2\Task2_3P\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+E:\COS20007\week2\Task2_3P\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+E:\COS20007\week2\Task2_3P\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+E:\COS20007\week2\Task2_3P\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+E:\COS20007\week2\Task2_3P\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll

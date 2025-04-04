@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COS20007\\week1\\Task1_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C00631-872D-4E6A-BD5A-D4B1ABAC1FC7}|Task1_2\\Task1_2.csproj|e:\\cos20007\\week1\\task1_2\\task1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C00631-872D-4E6A-BD5A-D4B1ABAC1FC7}|Task1_2\\Task1_2.csproj|solutionrelative:task1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C00631-872D-4E6A-BD5A-D4B1ABAC1FC7}|Task1_2\\Task1_2.csproj|e:\\cos20007\\week1\\task1_2\\task1_2\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C00631-872D-4E6A-BD5A-D4B1ABAC1FC7}|Task1_2\\Task1_2.csproj|solutionrelative:task1_2\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\COS20007\\week1\\Task1_2\\Task1_2\\Message.cs",
+              "RelativeDocumentMoniker": "Task1_2\\Message.cs",
+              "ToolTip": "E:\\COS20007\\week1\\Task1_2\\Task1_2\\Message.cs",
+              "RelativeToolTip": "Task1_2\\Message.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAApwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:48:50.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COS20007\\week1\\Task1_2\\Task1_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task1_2\\Program.cs",
+              "ToolTip": "E:\\COS20007\\week1\\Task1_2\\Task1_2\\Program.cs",
+              "RelativeToolTip": "Task1_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:13:13.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

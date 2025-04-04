@@ -1,0 +1,4 @@
+E:\COS20007\SplashKitDemo\obj\Debug\net8.0\SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\SplashKitDemo\obj\Debug\net8.0\SplashKitDemo.AssemblyInfoInputs.cache
+E:\COS20007\SplashKitDemo\obj\Debug\net8.0\SplashKitDemo.AssemblyInfo.cs
+E:\COS20007\SplashKitDemo\obj\Debug\net8.0\SplashKitDemo.csproj.CoreCompileInputs.cache

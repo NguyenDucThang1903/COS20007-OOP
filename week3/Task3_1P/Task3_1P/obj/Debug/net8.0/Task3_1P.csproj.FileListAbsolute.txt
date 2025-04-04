@@ -1,0 +1,14 @@
+E:\COS20007\week3\Task3_1P\Task3_1P\bin\Debug\net8.0\Task3_1P.exe
+E:\COS20007\week3\Task3_1P\Task3_1P\bin\Debug\net8.0\Task3_1P.deps.json
+E:\COS20007\week3\Task3_1P\Task3_1P\bin\Debug\net8.0\Task3_1P.runtimeconfig.json
+E:\COS20007\week3\Task3_1P\Task3_1P\bin\Debug\net8.0\Task3_1P.dll
+E:\COS20007\week3\Task3_1P\Task3_1P\bin\Debug\net8.0\Task3_1P.pdb
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\Task3_1P.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\Task3_1P.AssemblyInfoInputs.cache
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\Task3_1P.AssemblyInfo.cs
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\Task3_1P.csproj.CoreCompileInputs.cache
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\Task3_1P.dll
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\refint\Task3_1P.dll
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\Task3_1P.pdb
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\Task3_1P.genruntimeconfig.cache
+E:\COS20007\week3\Task3_1P\Task3_1P\obj\Debug\net8.0\ref\Task3_1P.dll

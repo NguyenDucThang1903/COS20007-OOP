@@ -1,0 +1,14 @@
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\Average.AssemblyInfoInputs.cache
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\Average.AssemblyInfo.cs
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\Average.csproj.CoreCompileInputs.cache
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\bin\Debug\net8.0\Average.exe
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\bin\Debug\net8.0\Average.deps.json
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\bin\Debug\net8.0\Average.runtimeconfig.json
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\bin\Debug\net8.0\Average.dll
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\bin\Debug\net8.0\Average.pdb
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\Average.dll
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\refint\Average.dll
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\Average.pdb
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\Average.genruntimeconfig.cache
+E:\COS20007\week1\1.1P_Prepare_for_OOP\Average\Average\obj\Debug\net8.0\ref\Average.dll

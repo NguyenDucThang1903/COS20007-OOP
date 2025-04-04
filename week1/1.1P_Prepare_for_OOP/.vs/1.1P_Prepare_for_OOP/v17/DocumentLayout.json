@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COS20007\\week1\\1.1P\\1.1P_Prepare_for_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83B23A60-4C5D-458C-B401-1CA9C9C32924}|1.1P_Prepare_for_OOP\\1.1P_Prepare_for_OOP.csproj|e:\\cos20007\\week1\\1.1p\\1.1p_prepare_for_oop\\1.1p_prepare_for_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B23A60-4C5D-458C-B401-1CA9C9C32924}|1.1P_Prepare_for_OOP\\1.1P_Prepare_for_OOP.csproj|solutionrelative:1.1p_prepare_for_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COS20007\\week1\\1.1P\\1.1P_Prepare_for_OOP\\1.1P_Prepare_for_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "1.1P_Prepare_for_OOP\\Program.cs",
+              "ToolTip": "E:\\COS20007\\week1\\1.1P\\1.1P_Prepare_for_OOP\\1.1P_Prepare_for_OOP\\Program.cs",
+              "RelativeToolTip": "1.1P_Prepare_for_OOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:25:53.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

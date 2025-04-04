@@ -1,0 +1,12 @@
+Please enter your details:
+Name: Thang
+Date of Birth: 30/11/2005
+Contact: 0123456789
+Symptoms: "Headaches", "Exhaustion", "Lack of sleep"
+
+You will be assigned to a psychologist
+
+After examination you are having: stress
+You should take enough sleep, have a healthier diet and do some exercises
+
+Your record has been stored in the hospital database

@@ -1,0 +1,14 @@
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\bin\Debug\net8.0\HelloWorld_V3.exe
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\bin\Debug\net8.0\HelloWorld_V3.deps.json
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\bin\Debug\net8.0\HelloWorld_V3.runtimeconfig.json
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\bin\Debug\net8.0\HelloWorld_V3.dll
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\bin\Debug\net8.0\HelloWorld_V3.pdb
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\HelloWorld_V3.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\HelloWorld_V3.AssemblyInfoInputs.cache
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\HelloWorld_V3.AssemblyInfo.cs
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\HelloWorld_V3.csproj.CoreCompileInputs.cache
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\HelloWorld_V3.dll
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\refint\HelloWorld_V3.dll
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\HelloWorld_V3.pdb
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\HelloWorld_V3.genruntimeconfig.cache
+E:\COS20007\Testing\HelloWorld_V3\HelloWorld_V3\obj\Debug\net8.0\ref\HelloWorld_V3.dll

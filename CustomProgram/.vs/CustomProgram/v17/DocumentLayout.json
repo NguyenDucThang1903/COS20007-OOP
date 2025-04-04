@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COS20007\\CustomProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\aggressivetreatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:aggressivetreatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\lib\\splashkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:lib\\splashkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\cardiologist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:cardiologist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\hospitalrecords.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:hospitalrecords.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\surgeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:surgeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\mildtreatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:mildtreatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\patientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:patientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\surgicalnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:surgicalnurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\medicalstaffdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:medicalstaffdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\treatmentplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:treatmentplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\emergencynurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:emergencynurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\emergencydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:emergencydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|e:\\cos20007\\customprogram\\medicalstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683804-6D52-4E77-8F56-A5DEC1C964F4}|CustomProgram.csproj|solutionrelative:medicalstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AggressiveTreatment.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\AggressiveTreatment.cs",
+              "RelativeDocumentMoniker": "AggressiveTreatment.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\AggressiveTreatment.cs",
+              "RelativeToolTip": "AggressiveTreatment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:30:37.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:32:49.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SplashKit.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\lib\\SplashKit.cs",
+              "RelativeDocumentMoniker": "lib\\SplashKit.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\lib\\SplashKit.cs",
+              "RelativeToolTip": "lib\\SplashKit.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:21:02.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SurgicalNurse.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\SurgicalNurse.cs",
+              "RelativeDocumentMoniker": "SurgicalNurse.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\SurgicalNurse.cs",
+              "RelativeToolTip": "SurgicalNurse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:41:58.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cardiologist.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\Cardiologist.cs",
+              "RelativeDocumentMoniker": "Cardiologist.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\Cardiologist.cs",
+              "RelativeToolTip": "Cardiologist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:30:37.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalRecords.txt",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\HospitalRecords.txt",
+              "RelativeDocumentMoniker": "HospitalRecords.txt",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\HospitalRecords.txt",
+              "RelativeToolTip": "HospitalRecords.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-25T10:56:16.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Receptionist.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\Receptionist.cs",
+              "RelativeDocumentMoniker": "Receptionist.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\Receptionist.cs",
+              "RelativeToolTip": "Receptionist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:23:37.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\IObserver.cs",
+              "RelativeDocumentMoniker": "IObserver.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\IObserver.cs",
+              "RelativeToolTip": "IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:09:37.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\Patient.cs",
+              "RelativeToolTip": "Patient.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:07:08.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\Hospital.cs",
+              "RelativeDocumentMoniker": "Hospital.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\Hospital.cs",
+              "RelativeToolTip": "Hospital.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:30:41.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MildTreatment.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\MildTreatment.cs",
+              "RelativeDocumentMoniker": "MildTreatment.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\MildTreatment.cs",
+              "RelativeToolTip": "MildTreatment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:41:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Surgeon.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\Surgeon.cs",
+              "RelativeDocumentMoniker": "Surgeon.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\Surgeon.cs",
+              "RelativeToolTip": "Surgeon.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:23:35.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manage.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\Manage.cs",
+              "RelativeDocumentMoniker": "Manage.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\Manage.cs",
+              "RelativeToolTip": "Manage.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswBIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:13:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientRecord.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\PatientRecord.cs",
+              "RelativeDocumentMoniker": "PatientRecord.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\PatientRecord.cs",
+              "RelativeToolTip": "PatientRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:05:05.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TreatmentPlan.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\TreatmentPlan.cs",
+              "RelativeDocumentMoniker": "TreatmentPlan.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\TreatmentPlan.cs",
+              "RelativeToolTip": "TreatmentPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:23:32.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedicalStaffDecorator.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\MedicalStaffDecorator.cs",
+              "RelativeDocumentMoniker": "MedicalStaffDecorator.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\MedicalStaffDecorator.cs",
+              "RelativeToolTip": "MedicalStaffDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:50:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmergencyNurse.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\EmergencyNurse.cs",
+              "RelativeDocumentMoniker": "EmergencyNurse.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\EmergencyNurse.cs",
+              "RelativeToolTip": "EmergencyNurse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:30:39.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\Doctor.cs",
+              "RelativeToolTip": "Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:20:26.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmergencyDecorator.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\EmergencyDecorator.cs",
+              "RelativeDocumentMoniker": "EmergencyDecorator.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\EmergencyDecorator.cs",
+              "RelativeToolTip": "EmergencyDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:30:39.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MedicalStaff.cs",
+              "DocumentMoniker": "E:\\COS20007\\CustomProgram\\MedicalStaff.cs",
+              "RelativeDocumentMoniker": "MedicalStaff.cs",
+              "ToolTip": "E:\\COS20007\\CustomProgram\\MedicalStaff.cs",
+              "RelativeToolTip": "MedicalStaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:26:11.58Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

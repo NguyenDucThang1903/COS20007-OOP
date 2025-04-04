@@ -1,0 +1,14 @@
+E:\COS20007\week2\Task2_2P\CounterTask\bin\Debug\net8.0\CounterTask.exe
+E:\COS20007\week2\Task2_2P\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+E:\COS20007\week2\Task2_2P\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+E:\COS20007\week2\Task2_2P\CounterTask\bin\Debug\net8.0\CounterTask.dll
+E:\COS20007\week2\Task2_2P\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\CounterTask.dll
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+E:\COS20007\week2\Task2_2P\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll

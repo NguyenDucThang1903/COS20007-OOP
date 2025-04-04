@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRdksQsWeuM=",
+  "success": true,
+  "projectFilePath": "E:\\COS20007\\CustomProgram\\CustomProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\llamasharp\\0.16.0\\llamasharp.0.16.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\llamasharp.backend.cpu\\0.16.0\\llamasharp.backend.cpu.0.16.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.tensors\\8.0.0\\system.numerics.tensors.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

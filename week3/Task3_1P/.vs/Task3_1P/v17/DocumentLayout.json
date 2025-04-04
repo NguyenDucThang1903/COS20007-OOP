@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\COS20007\\week3\\Task3_1P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD519B-6EF6-41FA-B01E-6F7F97BDA052}|Task3_1P\\Task3_1P.csproj|e:\\cos20007\\week3\\task3_1p\\task3_1p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CD519B-6EF6-41FA-B01E-6F7F97BDA052}|Task3_1P\\Task3_1P.csproj|solutionrelative:task3_1p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD519B-6EF6-41FA-B01E-6F7F97BDA052}|Task3_1P\\Task3_1P.csproj|e:\\cos20007\\week3\\task3_1p\\task3_1p\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CD519B-6EF6-41FA-B01E-6F7F97BDA052}|Task3_1P\\Task3_1P.csproj|solutionrelative:task3_1p\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD519B-6EF6-41FA-B01E-6F7F97BDA052}|Task3_1P\\Task3_1P.csproj|e:\\cos20007\\week3\\task3_1p\\task3_1p\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CD519B-6EF6-41FA-B01E-6F7F97BDA052}|Task3_1P\\Task3_1P.csproj|solutionrelative:task3_1p\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF99A08-146C-4E5A-9FDD-EFEBF40E1CAE}|CounterClassUnitTest\\CounterClassUnitTest.csproj|e:\\cos20007\\week3\\task3_1p\\counterclassunittest\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF99A08-146C-4E5A-9FDD-EFEBF40E1CAE}|CounterClassUnitTest\\CounterClassUnitTest.csproj|solutionrelative:counterclassunittest\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB864688-3D31-4FF1-A7A0-08477788BF44}|ClockClassUnitTest\\ClockClassUnitTest.csproj|e:\\cos20007\\week3\\task3_1p\\clockclassunittest\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB864688-3D31-4FF1-A7A0-08477788BF44}|ClockClassUnitTest\\ClockClassUnitTest.csproj|solutionrelative:clockclassunittest\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "E:\\COS20007\\week3\\Task3_1P\\Task3_1P\\Counter.cs",
+              "RelativeDocumentMoniker": "Task3_1P\\Counter.cs",
+              "ToolTip": "E:\\COS20007\\week3\\Task3_1P\\Task3_1P\\Counter.cs",
+              "RelativeToolTip": "Task3_1P\\Counter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:50:54.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CounterTest.cs",
+              "DocumentMoniker": "E:\\COS20007\\week3\\Task3_1P\\CounterClassUnitTest\\CounterTest.cs",
+              "RelativeDocumentMoniker": "CounterClassUnitTest\\CounterTest.cs",
+              "ToolTip": "E:\\COS20007\\week3\\Task3_1P\\CounterClassUnitTest\\CounterTest.cs",
+              "RelativeToolTip": "CounterClassUnitTest\\CounterTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:30:52.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\COS20007\\week3\\Task3_1P\\Task3_1P\\Program.cs",
+              "RelativeDocumentMoniker": "Task3_1P\\Program.cs",
+              "ToolTip": "E:\\COS20007\\week3\\Task3_1P\\Task3_1P\\Program.cs",
+              "RelativeToolTip": "Task3_1P\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:21:17.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClockTest.cs",
+              "DocumentMoniker": "E:\\COS20007\\week3\\Task3_1P\\ClockClassUnitTest\\ClockTest.cs",
+              "RelativeDocumentMoniker": "ClockClassUnitTest\\ClockTest.cs",
+              "ToolTip": "E:\\COS20007\\week3\\Task3_1P\\ClockClassUnitTest\\ClockTest.cs",
+              "RelativeToolTip": "ClockClassUnitTest\\ClockTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:19:44.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "E:\\COS20007\\week3\\Task3_1P\\Task3_1P\\Clock.cs",
+              "RelativeDocumentMoniker": "Task3_1P\\Clock.cs",
+              "ToolTip": "E:\\COS20007\\week3\\Task3_1P\\Task3_1P\\Clock.cs",
+              "RelativeToolTip": "Task3_1P\\Clock.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA3wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:06:42.692Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
